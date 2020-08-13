@@ -1,9 +1,9 @@
 ## Hello World, I'm [Adarsh Singh!](https://github.com/singhadarsh0403/) <img src="./gifs/Hi.gif" width="30px"></h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Pavan%20Rajesh%20Gandhi-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adarshsingh0403/)
-[![Twitter Badge](https://img.shields.io/badge/-@iampavangandhi-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/adeerishurm)
-[![Instagram Badge](https://img.shields.io/badge/-@iampavangandhi-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/adeerishurm/)
-[![Telegram Badge](https://img.shields.io/badge/-@iampavangandhi-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/singhadarsh0403)
+[![Linkedin Badge](https://img.shields.io/badge/-Adarsh%20Singh-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adarshsingh0403/)
+[![Twitter Badge](https://img.shields.io/badge/-@adeerishurm-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/adeerishurm)
+[![Instagram Badge](https://img.shields.io/badge/-@adeerishurm-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/adeerishurm/)
+[![Telegram Badge](https://img.shields.io/badge/-@singhadarsh0403-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/singhadarsh0403)
 
 ### Glad to see you here! <img src="./gifs/emoji.gif" width="27px"> 
 
