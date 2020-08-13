@@ -1,17 +1,17 @@
-## Hello World, I'm [Adarsh Singh!](https://github.com/singhadarsh0403/) <img src="./gifs/Hi.gif" width="30px"></h2>
+## Hello World, I'm [Adarsh Singh!](https://github.com/singhadarsh0403/) <img src="https://github.com/singhadarsh0403/singhadarsh0403/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Adarsh%20Singh-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adarshsingh0403/)
 [![Twitter Badge](https://img.shields.io/badge/-@adeerishurm-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/adeerishurm)
 [![Instagram Badge](https://img.shields.io/badge/-@adeerishurm-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/adeerishurm/)
 [![Telegram Badge](https://img.shields.io/badge/-@singhadarsh0403-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/singhadarsh0403)
 
-### Glad to see you here! <img src="./gifs/emoji.gif" width="27px"> 
+### Glad to see you here! <img src="https://github.com/singhadarsh0403/singhadarsh0403/blob/master/gifs/coder.gif" width="27px"> 
 
 I'm a final year student pursuing Bachelors's in Information Technology 🎓 from Dr. APJ Abdul Kalam Technical University, Lucknow 🏛. I'm a Creative Technologist who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
 
 
-<img align="right" height="250" width="375" alt="" src="./gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://github.com/singhadarsh0403/singhadarsh0403/blob/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuffs:
 
