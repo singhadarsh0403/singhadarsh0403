@@ -37,7 +37,7 @@ I'm a final year student pursuing Bachelors's in Information Technology 🎓 fro
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
 
-<img alt="" src="https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true" />
+<img alt="" src="https://github-readme-stats.vercel.app/api?username=singhadarsh0403&show_icons=true&hide_border=true" />
 
 #
 
