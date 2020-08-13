@@ -20,7 +20,7 @@ I'm a final year student pursuing Bachelors's in Information Technology 🎓 fro
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/singhadarsh0403).
 - 💬 Ask me about anything! I am happy to help.
 - 📫 How to reach me: singhadarsh0403@gmail.com
-- 📝 Checkout my [Resume](./resume.pdf).
+- 📝 Checkout my [Resume](https://github.com/singhadarsh0403/singhadarsh0403/blob/master/resume.pdf).
 
 ### Languages and Tools:
 
