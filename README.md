@@ -7,23 +7,21 @@
 
 ### Glad to see you here! <img src="https://github.com/singhadarsh0403/singhadarsh0403/blob/master/gifs/emoji.gif" width="27px"> 
 
-I'm a final year student pursuing Bachelors's in Information Technology 🎓 from Dr. APJ Abdul Kalam Technical University, Lucknow 🏛. I'm a Creative Technologist who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
-
-
+I'm a Data Enginerr Graduated with Bachelors's in Information Technology 🎓 from Dr. APJ Abdul Kalam Technical University, Lucknow 🏛. I'm a Creative Technologist who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Data Engineering 🕸️ .
 
 <img align="right" height="250" width="375" alt="" src="https://github.com/singhadarsh0403/singhadarsh0403/blob/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuffs:
 
-- 🛠 I’m currently working with Node.js, Express.js <br />  Mongodb, Javascript, etc 💻.
-- 🚀 I’m currently learning Full Stack Development.
+- 🛠 I’m currently working with Bigdata <br /> databricks ,spark etc 💻.
+- 🚀 I’m currently learning Data Engineering tools.
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/singhadarsh0403).
 - 💬 Ask me about anything! I am happy to help.
 - 📫 How to reach me: singhadarsh0403@gmail.com
-- 📝 Checkout my [Resume](https://github.com/singhadarsh0403/singhadarsh0403/blob/master/resume.pdf).
+- 📝 Checkout my [Resume](https://www.linkedin.com/in/adarshsingh0403/).
 
 ### Languages and Tools:
-
+<!--
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css"></code>
@@ -35,6 +33,8 @@ I'm a final year student pursuing Bachelors's in Information Technology 🎓 fro
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png" alt="github"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+
+-->
 
 
 <img alt="" src="https://github-readme-stats.vercel.app/api?username=singhadarsh0403&show_icons=true&hide_border=true" />
